@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+// https://open.kattis.com/problems/jumbojavelin
+
 int main(void){
     int num;
     cin >> num;

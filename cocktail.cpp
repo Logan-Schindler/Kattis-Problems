@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// https://open.kattis.com/problems/cocktail
+
 int main(){
     int lines;
     int potTime;

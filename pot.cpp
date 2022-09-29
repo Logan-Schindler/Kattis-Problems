@@ -2,6 +2,8 @@
 #include <algorithm>
 #include <cmath>
 
+// https://open.kattis.com/problems/pot
+
 int main(void){
     int a;
     std::cin >> a;

@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// https://open.kattis.com/problems/grassseed
+
 int main(){
     double cost;
     cin >> cost;

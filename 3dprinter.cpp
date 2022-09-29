@@ -4,6 +4,8 @@
 #include<algorithm>
 using namespace std;
 
+// https://open.kattis.com/problems/3dprinter
+
 int main()
 {
 	int statues;

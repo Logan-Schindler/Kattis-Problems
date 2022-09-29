@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// https://open.kattis.com/problems/99problems
+
 int main(){
 long long price;
 cin >> price;

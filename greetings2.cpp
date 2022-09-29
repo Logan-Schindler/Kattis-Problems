@@ -2,6 +2,8 @@
 #include <string> 
 using namespace std;
 
+// https://open.kattis.com/problems/greetings2
+
 int main(void){
     string s;
     cin >> s;

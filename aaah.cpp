@@ -2,6 +2,8 @@
 # include <string>
 using namespace std;
 
+// https://open.kattis.com/problems/aaah
+
 int main(){
     string jon;
     string doc;

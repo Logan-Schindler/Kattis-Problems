@@ -7,6 +7,8 @@
 #include <cstdlib>
 using namespace std;
 
+// https://open.kattis.com/problems/beepers
+
 static int minDist = INT_MAX;
 static int dist[11][11];
 

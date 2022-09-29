@@ -4,6 +4,8 @@
 #include<algorithm>
 using namespace std;
 
+// https://open.kattis.com/problems/pieceofcake2
+
 int main()
 {
 	long long cakeLen, cutHeight, cutWidth;

@@ -9,6 +9,9 @@
 #include <string_view>
 using namespace std;
 
+//https://open.kattis.com/problems/cakeymccakeface?editsubmit=9634690
+
+//This does not work and will not produce the correct answer
 template<typename Map>
 int largestElement(Map& m)
 {
@@ -29,6 +32,7 @@ int largestElement(Map& m)
     return maxKey;
 }
 
+//This will print out all of the elements in the map
 template<typename Map>
 void PrintMap(Map& m)
 {
@@ -77,6 +81,7 @@ int main()
         }
     }
     
+    //Will loop through the map and find which key has the largest value.
     int maxKey= 0;
     int maxIter= 0;
     for(auto x: times){

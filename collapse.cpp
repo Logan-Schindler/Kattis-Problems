@@ -6,6 +6,8 @@
 #include <limits>
 using namespace std;
 
+// https://open.kattis.com/problems/collapse
+
 int islands;
 int needs[100001];
 bool isLive[100001];
